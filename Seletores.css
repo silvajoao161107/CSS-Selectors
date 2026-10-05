@@ -1,0 +1,25 @@
+/* Seletor de elementos */
+article {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 8px;
+}
+
+/* Seletor de classes */
+.destaque {
+    background-color: #e45c3c;
+    color: white;
+    padding: 0.5rem 1rem;
+}
+
+/* Seletor de ID */
+#cabecalho-principal {
+    background: linear-gradient(135 deg, #667eea 0%, #764ba2 100%);
+    min-height: 60vh;
+}
+
+/* Seletores descendentes */
+nav ul li {
+    display: inline-block;
+    margin-height: 2rem;
+}
